@@ -43,10 +43,10 @@ mail.HTMLBody = f'''
 <p>Ticket Médio dos Produtos em cada Loja:</p>
 {ticket_medio.to_html(formatters={'Ticket Médio': 'R${:,.2f}'.format})}
 
-<p>Qualquer dúvida estou à disposição.</p>
+<p>Qualquer dúvida estamos à disposição.</p>
 
 <p>Att.,</p>
-<p>Leandro</p>
+<p>SanData</p>
 '''
 
 mail.Send()
