@@ -1,0 +1,2 @@
+Esse projeto aborda a construção de uma automação em python do processo de importação de uma base de dados do excel e envio de email com tabela contendo relatório do faturamento total, obtido automaticamente a partir da base de dados com o auxílio do código da automação
+Tal projeto foi desenvolvido utilizando a biblioteca pandas para manipulação adequada dos dados, para dessa forma, viabilizar a construção automática da tabela contendo o relatório.
