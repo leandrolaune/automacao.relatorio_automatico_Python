@@ -91,3 +91,8 @@ mail.Send()
 
 print('Email Enviado')
 ```
+### Resultado
+### Result
+![envio email1](https://github.com/user-attachments/assets/719c3f35-97de-4fd9-a38d-4acf80018e38)
+![envio email2](https://github.com/user-attachments/assets/4ddd5a8b-f459-41ea-b9e8-508b8521fc66)
+
