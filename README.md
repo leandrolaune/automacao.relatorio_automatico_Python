@@ -1,7 +1,6 @@
+## Projeto feito por Leandro Sanches Launé
+## project made by Leandro Sanches Launé
 # Descrição
-# Projeto feito por Leandro Sanches Launé
-# project made by Leandro Sanches Launé
-
 # Description
 **Portuguese Version:**  
 Esse projeto aborda a construção de uma automação em python do processo de extração de uma base de dados do excel, análise de faturamento e manipulação de dados utilizando Pandas e envio de email com tabela contendo relatório do faturamento total, obtida automaticamente a partir da base de dados juntamnte com o uso do código. 
